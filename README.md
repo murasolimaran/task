@@ -459,7 +459,7 @@
                                     <textarea class="form-control Forvalidation" rows="3" id="" required></textarea>
                                     <p style="display : none">Enter your message</p>
                                 </div>
-                                <button type="button" id="FormSubmit"class="btn btn-outline-primary">Submit</button>
+                                <button type="button" id="FormSubmit" class="btn btn-outline-primary">Submit</button>
                             </div>
                         </div>
                     </form>
