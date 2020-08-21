@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 
@@ -142,6 +142,9 @@
                     </button>
                     <div class="collapse navbar-collapse" id="collapsibleNavbar">
                         <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"></a>
+                            </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Home</a>
                             </li>
